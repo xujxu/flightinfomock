@@ -3,7 +3,7 @@ This is used to share the javascript to simulate the flights information with Lo
 
 The whole steps in Logic App are:
 - Recurrence
-- Execute JavaScript Code
+- Execute JavaScript Code (copy the script content to this step)
 - Send Event (Event Hub connector In-App)
 
 ![flightinfomock flow](https://github.com/xujxu/flightinfomock/assets/68268054/df818630-0cb7-443f-84c0-bc8bea8e6ed9)
