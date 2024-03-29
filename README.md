@@ -9,7 +9,8 @@ The whole steps in Logic App (with stateful workflow) are:
 - Execute JavaScript Code (copy the script content to this step)
 - Send Event (Event Hub connector In-App)
   - Add the EH connection:
-    ![EH connection](https://github.com/xujxu/flightinfomock/assets/68268054/3d4529a5-cde9-4012-bbe3-241315518767)
+    ![EH connection](https://github.com/xujxu/flightinfomock/assets/68268054/bdccad1e-7b77-478c-9808-a6c13c91dc7a)
+
   - Configure the EH step:
     ![EH configuration](https://github.com/xujxu/flightinfomock/assets/68268054/d79f983f-4d3d-40e3-a615-387f762958aa)
 
